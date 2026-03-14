@@ -123,7 +123,7 @@ See https://developer.apple.com/forums/thread/66925 for more information.
 
 ## Contributions
 
-### Amy Ouyang (50%)
+### Amy Ouyang (60%)
 - Setup Firestore and migrated alarm data storage from Core Data to Firebase Firestore
 - Configured Firestore backend integration and database
 - Added functionality for automatic and immediate adding, retrieving, deleting, and modifying alarms in Firestore in real-time
@@ -146,7 +146,7 @@ See https://developer.apple.com/forums/thread/66925 for more information.
 - Figma wireframe
 - App idea
 
-### Sanjana Kapoor (20%)
+### Sanjana Kapoor (15%)
 -  Created Alarm Popup Screen
 - Worked on creating segue from navigation banner to Alarm Popup Screen (incomplete)
 - Logic for Alarm Metadata page
@@ -174,7 +174,7 @@ See https://developer.apple.com/forums/thread/66925 for more information.
 - Firebase setup and related logic
 
 
-### Evan Peng (10%)
+### Evan Peng (5%)
 - Logic for Notifications Screen
 - Logic for Profile/Settings Page
 - Research and PoC on UIEventKit as an approach to notification triggers
