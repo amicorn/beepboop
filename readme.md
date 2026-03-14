@@ -123,7 +123,7 @@ See https://developer.apple.com/forums/thread/66925 for more information.
 
 ## Contributions
 
-### Amy Ouyang (60%)
+### Amy Ouyang (50%)
 - Setup Firestore and migrated alarm data storage from Core Data to Firebase Firestore
 - Configured Firestore backend integration and database
 - Added functionality for automatic and immediate adding, retrieving, deleting, and modifying alarms in Firestore in real-time
